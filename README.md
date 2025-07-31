@@ -4,8 +4,4 @@
 <hr>
 <h2>Headings 2</h2> <br> Adding the heading in second size
 <div>
-  <style>
-      imagine
-  </style>
-
 </div>
