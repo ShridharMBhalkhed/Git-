@@ -1,7 +1,5 @@
 # Git- learning the git 
 <br> and add adding some meaning <br> adding breaks using the html 
 <h1>Heading tags and all.... </h1>
-<hr>
-<h2>Headings 2</h2> <br> Adding the heading in second size
-<div>
-</div>
+<h2>for cloning we are going to use git clone <---link----><h2>
+
